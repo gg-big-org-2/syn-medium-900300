@@ -1,0 +1,18 @@
+{
+  "generator_version": "1",
+  "role": "probe-medium",
+  "seed": 900300,
+  "size_class": "medium",
+  "secret_count": 1,
+  "secrets": [
+    {
+      "detector": "postgres_uri",
+      "branch": "main",
+      "path": "Services/PostgresUserRepository.cs",
+      "line": 20,
+      "end_line": 21,
+      "commit": "e729ff1092a676b14a42f02b726248b8af3977f4",
+      "shared": false
+    }
+  ]
+}
